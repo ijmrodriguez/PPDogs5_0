@@ -4,7 +4,7 @@ public class DogDriver
     {
         Dog dog1 = new Dog("Fang", 5, "Husky", 80);
         Dog dog2 = new Dog("Piper", 3, "Austailian Shepherd", 45);
-        Dog dog3 = new Dog("Rocket", 3, "Pomeranian", 50);
+        Dog dog3 = new Dog("Rocket", 3, "Pomeranian", 10);
 
         System.out.println(dog1.getBreed());
         System.out.println(dog1.getAge());
